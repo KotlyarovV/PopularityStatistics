@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61457d7a-3225-4295-adf9-4c565217ee5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.vs/PopularityStatistics/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/PopularityStatistics/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/ImageCloudStorage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/ImageCloudStorage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/bin/Debug/CloudImageStorage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/bin/Debug/CloudImageStorage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/bin/Debug/CloudImageStorage.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/bin/Debug/CloudImageStorage.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CloudImageStorage/obj/Debug/CloudImageStorage.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/PopularityStatistics.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/PopularityStatistics/PopularityStatistics.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PopularityStatistics/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/Views/Home/About.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PopularityStatistics/Views/Home/About.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/PopularityStatistics/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/obj/Debug/net462/PopularityStatistics.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PopularityStatistics/obj/Debug/net462/PopularityStatistics.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/obj/Debug/net462/PopularityStatistics.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/obj/Debug/net462/PopularityStatistics.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PopularityStatistics/obj/PopularityStatistics.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/Models/ReportContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/Models/ReportContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/bin/Debug/ReportDataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/bin/Debug/ReportDataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/bin/Debug/ReportDataBase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/bin/Debug/ReportDataBase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ReportDataBase/obj/Debug/ReportDataBase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/bin/Debug/TagsCloudVisualization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/bin/Debug/TagsCloudVisualization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/bin/Debug/TagsCloudVisualization.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/bin/Debug/TagsCloudVisualization.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TagsCloudVisualization/obj/Debug/TagsCloudVisualization.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/bin/Debug/VKWebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/bin/Debug/VKWebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/bin/Debug/VKWebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/bin/Debug/VKWebApi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VKWebApi/obj/Debug/VKWebApi.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PopularityStatistics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PopularityStatistics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PopularityStatistics" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PopularityStatistics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PopularityStatistics" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PopularityStatistics" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/PopularityStatistics/PopularityStatistics.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETFramework,Version=v4.6.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="PopularityStatistics" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61457d7a-3225-4295-adf9-4c565217ee5f" name="Default Changelist" comment="" />
+      <created>1545844701889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545844701889</updated>
+      <workItem from="1545844704289" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="51000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32874015" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

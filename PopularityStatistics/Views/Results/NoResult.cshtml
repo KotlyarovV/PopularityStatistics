@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Error";
+}
+<div class="container">
+    <h3>Поиск</h3>
+    <form class="form-search" method="post" enctype="multipart/form-data" action="/results/search/1">
+        <div class="input-append">
+            <input type="text" class="span2 search-query" name="search" placeholder="адрес страницы или id" required>
+            <button type="submit" class="btn">Найти</button>
+        </div>
+    </form>
+</div>
+<h2>Не было найденно ни одного результата</h2>
+

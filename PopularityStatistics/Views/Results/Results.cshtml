@@ -1,0 +1,77 @@
+﻿@using System.Collections;
+@model IEnumerable<Report>
+@{
+    ViewData["Title"] = "Результаты";
+}
+
+<div class="container">
+    <h3>Поиск</h3>
+    <form class="form-search" method="post" enctype="multipart/form-data" action="/results/search/1">
+        <div class="input-append">
+            <input type="text" class="span2 search-query" name="search" placeholder="адрес страницы или id" required>
+            <button type="submit" class="btn">Найти</button>
+        </div>
+    </form>
+</div>
+<div class="container">
+    <h2>Результаты обработки</h2>
+    <p>Если вы ранее делали запрос на обработку статистики ВК АПИ, ищите его здесь</p>
+    <table class="table">
+        <thead>
+        <tr>
+            <th>Дата</th>
+            <th>Тема</th>
+            <th>Начало поиска</th>
+            <th>Возраст</th>
+            <th>Пол</th>
+            <th>Результат</th>
+            <th>Ссылка</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var report in Model)
+        {
+            <tr>
+                <th>@report.DateTime</th>
+                <th>@report.Theme</th>
+                <th>@report.FirstUserName</th>
+                <th>@report.AgeReport</th>
+                <th>@report.SexReport</th>
+                <th>@report.ErrorMessage</th>
+                <th>
+                    @if (report.IsFailed)
+                    {
+                        <p>---</p>
+                    }
+                    else
+                    {
+                        <a href="/file/@report.WayToFile">Скачать</a>
+                    }
+                </th>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <nav aria-label="Page navigation example">
+        <ul class="pagination">
+            @if (ViewData.ContainsKey("pp"))
+            {
+                <li class="page-item"><a class="page-link" href="@ViewData["pp"]">Предыдущая страница</a></li>
+
+            }
+            <li class="page-item"><a class="page-link" href="@ViewData["cp"]">@ViewData["cp"]</a></li>
+            @if (ViewData.ContainsKey("cp+1"))
+            {
+                <li class="page-item"><a class="page-link" href="@ViewData["cp+1"]">@ViewData["cp+1"]</a></li>
+            }
+            @if (ViewData.ContainsKey("cp+2"))
+            {
+                <li class="page-item"><a class="page-link" href="@ViewData["cp+2"]">@ViewData["cp+2"]</a></li>     
+            }
+            @if (ViewData.ContainsKey("np"))
+            {
+                <li class="page-item"><a class="page-link" href="@ViewData["np"]">@ViewData["np"]</a></li>
+            }
+        </ul>
+    </nav>
+</div>

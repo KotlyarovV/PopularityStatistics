@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\eu.ratner\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\eu.ratner\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_PopularityStatistics.694342517.00" t="ExcludeRecursive" />
+    <e p="C:\Users\eu.ratner\popularitystatistics" t="IncludeFlat">
+      <e p="CloudImageStorage" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CloudImageStorage.csproj" t="IncludeRecursive" />
+        <e p="ImageCloudStorage.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="popularitystatistics" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="bundleconfig.json" t="Include" />
+        <e p="Controllers" t="Include">
+          <e p="FileController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="ResultsController.cs" t="Include" />
+          <e p="StartTaskController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="CloudStorageAdapter.cs" t="Include" />
+          <e p="FileRepository.cs" t="Include" />
+          <e p="IFileRepository.cs" t="Include" />
+          <e p="IReportRepository.cs" t="Include" />
+          <e p="ReportRepository.cs" t="Include" />
+        </e>
+        <e p="images" t="Include">
+          <e p="187a74212d80bea9-8e43-4ae7-be6c-d3e2240e59ca.bmp" t="Include" />
+          <e p="75cc741d0b6a9bae-d375-4688-8257-5f32a2e2e1ee.bmp" t="Include" />
+          <e p="b898eb609c5ef577-8aec-46b8-88ca-cea5f46fc56a.bmp" t="Include" />
+        </e>
+        <e p="Infrastucture" t="Include">
+          <e p="IUniqueKeyService.cs" t="Include" />
+          <e p="ReflectionHelpers.cs" t="Include" />
+          <e p="TaskPool.cs" t="Include" />
+          <e p="UniqueNameService.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="ErrorEnum.cs" t="Include" />
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="FilterEnum.cs" t="Include" />
+          <e p="ParametersModel.cs" t="Include" />
+          <e p="Report.cs" t="Include" />
+          <e p="SexEnum.cs" t="Include" />
+          <e p="TaskRepository.cs" t="Include" />
+          <e p="UserFilter.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net462" t="Include">
+              <e p="PopularityStatistics.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PopularityStatistics-cb0e0fe38381.json" t="Include" />
+        <e p="PopularityStatistics.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="About.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Results" t="Include">
+            <e p="NoResult.cshtml" t="Include" />
+            <e p="Results.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="StartTask" t="Include">
+            <e p="Error.cshtml" t="Include" />
+            <e p="Error.cshtml.cs" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+            <e p="site.min.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="images" t="Include">
+            <e p="banner1.svg" t="Include" />
+            <e p="banner2.svg" t="Include" />
+            <e p="banner3.svg" t="Include" />
+            <e p="banner4.svg" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+            <e p="site.min.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-theme.css" t="Include" />
+                  <e p="bootstrap-theme.css.map" t="Include" />
+                  <e p="bootstrap-theme.min.css" t="Include" />
+                  <e p="bootstrap-theme.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="glyphicons-halflings-regular.eot" t="Include" />
+                  <e p="glyphicons-halflings-regular.svg" t="Include" />
+                  <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff2" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="npm.js" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="PopularityStatistics.sln" t="IncludeFlat" />
+      <e p="ReportDataBase" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="Report.cs" t="Include" />
+          <e p="ReportContext.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReportDataBase.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="TagsCloudVisualization" t="IncludeRecursive">
+        <e p="Analysator.cs" t="Include" />
+        <e p="ArchimedeanSpiral.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CircularCloudLayouter.cs" t="Include" />
+        <e p="CloudPainter.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="EnumerableRectanglesExtension.cs" t="Include" />
+          <e p="PointExtension.cs" t="Include" />
+          <e p="SizeExtension.cs" t="Include" />
+        </e>
+        <e p="Filter.cs" t="Include" />
+        <e p="Formatter.cs" t="Include" />
+        <e p="IAnalysator.cs" t="Include" />
+        <e p="ICloudLayouter.cs" t="Include" />
+        <e p="ICloudPainter.cs" t="Include" />
+        <e p="IFilter.cs" t="Include" />
+        <e p="IFormatter.cs" t="Include" />
+        <e p="ISpiral.cs" t="Include" />
+        <e p="ITextVisualisator.cs" t="Include" />
+        <e p="IWordExtractor.cs" t="Include" />
+        <e p="mystem.exe" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TagsCloudVisualization.csproj" t="IncludeRecursive" />
+        <e p="TextImage.cs" t="Include" />
+        <e p="TextVisualisator.cs" t="Include" />
+        <e p="Word.cs" t="Include" />
+        <e p="WordExtractor.cs" t="Include" />
+      </e>
+      <e p="VKWebApi" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataCollector.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Requests" t="Include">
+          <e p="FriendsRequest.cs" t="Include" />
+          <e p="IRequest.cs" t="Include" />
+          <e p="IRequestHandler.cs" t="Include" />
+          <e p="IRequestWithoutFields.cs" t="Include" />
+          <e p="Request.cs" t="Include" />
+          <e p="RequestParameters.cs" t="Include" />
+          <e p="UserRequest.cs" t="Include" />
+        </e>
+        <e p="User.cs" t="Include" />
+        <e p="VKWebApi.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
